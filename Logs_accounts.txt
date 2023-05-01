@@ -1,8 +1,0 @@
-{
-    "Mxlfunction005@gmail.com": {
-        "Last check": "2023-05-01",
-        "Today's points": 0,
-        "Points": 1128
-    },
-    "Elapsed time": "00:05:44"
-}
